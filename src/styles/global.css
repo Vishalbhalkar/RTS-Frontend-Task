@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply font-sans text-gray-900;
+  }
+
+.main_container{
+    background: #48293f;
+    padding-bottom: 130px;
+    margin-top: -80px;
+}
+
+.navbar-color{
+    background: #48293f !important;
+}
+
+.navbar_container{
+    border-bottom: 2px solid #fd6b5620 !important;
+}
+
+.card_container{
+    margin-top: -90px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.full_navbar{
+    background-color: #48293f;
+    width: 100%
+
+}
+
+.custom-progress-bar {
+    @apply bg-red-500;
+}
+
+
