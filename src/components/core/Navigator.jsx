@@ -4,7 +4,7 @@ const Navigator = () => {
     return (
         <>
         <div className="pt-[50px]"> </div>
-        <div className="bg-[#48293F] lg:ml-10 sm:ml-5 mt-[35px] text-sm text-gray-500">
+        <div className="bg-[#48293F] lg:ml-10 sm:ml-5 mt-[35px] text-sm text-gray-500 ml-5">
             <div className="mb-2 ml-[-90px]"> </div>
             <span className="mr-2">Courses</span>
             <span className="mr-2">{">"}</span>
